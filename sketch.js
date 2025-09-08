@@ -1,43 +1,43 @@
 const trabajos = [
       {
-        photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Objeto de luz roja.webp",
-        title: "Objeto de luz ft Antonia Lara",
+        photo: "",
+        title: "Coneptualización del cuervo",
+        description: "Trabajo de proyecto III, con la profe. Clarisa"
+    },
+    {
+        photo: "https://Kupaa-0.github.io/pretrabajopractico/blob/img/difuso%20(1).webp",
+        title: "Objeto lo difuso",
+        description: "Trabajo de Proyecto I, con el profe. René Perea"
+    },
+    {
+        photo: "",
+        title: "Vinilo Audición x Takehiko Inoue",
         description: "Trabajo de proyecto I, con el profe. René Perea"
     },
     {
-        photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Portadas Fanzine.webp",
-        title: "Fanzine Abre los ojos",
-        description: "Trabajo de Proyecto III, con la profe. Pamela Petruska"
+        photo: "",
+        title: "Forensic Architecture ft. María García Fernandes",
+        description: "Trabajo de Proyecto III con Clarisa"
     },
     {
-        photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Portada vinilo.webp",
-        title: "Vinilo KanYE X ChainsawMan",
-        description: "Trabajo de proyecto I, con el profe. René Perea"
-    },
-    {
-        photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Memorice El juicio prohibido.webp",
-        title: "Memorice El juicio prohibido ft Constanza Ortega",
-        description: "Trabajo de representación conceptual, con la profe. Grace Mallea"
-    },
-    {
-        photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Foro concepto línea.webp",
-        title: "Fotos concepto línea",
-        description: "Trabajo de proyecto II, con el profe. René Perea"
+        photo: "",
+        title: "Guante Griptraining",
+        description: "Trabajo de ergonomía, con el profe. Claudio Ribalta"
     },
      {
-        photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Intervención Corporal.webp",
-        title: "Intervención corporal physalis alkekengi ft Claudio Abarca",
+        photo: "",
+        title: "Intervención corporal physalis alkekengi ft Giulia Pepe",
         description: "Trabajo de proyecto II, con el profe. René Perea"
     },
     {
-        photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Patrón_Collage_JUCAL.webp",
-        title: "Collage a base de texturas",
+        photo: "",
+        title: "Recreación en vectores",
         description: "Trabajo de Configuración visual II, con el profe. Juan Calderon"
     },
      {
-        photo: "https://catsgugu.github.io/Pre--Trabajo-Pr-ctico-jeje/img/Collage Te transmito demasiado Repre.webp",
-        title: "Collage Te transmito demasiado",
-        description: "Trabajo de representación conceptual, con la profe. Grace Mallea"
+        photo: "",
+        title: "Infografía Kimono ft. Camila Calquín",
+        description: "Trabajo de proyecto III, con la profe. Clarisa"
      }
     
     ];
